@@ -1,0 +1,4 @@
+secrets.yml
+manifest.yml
+manifest-state.json
+*.pem
